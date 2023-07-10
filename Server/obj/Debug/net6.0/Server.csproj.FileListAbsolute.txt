@@ -1,0 +1,5 @@
+C:\GIT\ClientServer\Server\obj\Debug\net6.0\Server.csproj.AssemblyReference.cache
+C:\GIT\ClientServer\Server\obj\Debug\net6.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\GIT\ClientServer\Server\obj\Debug\net6.0\Server.AssemblyInfoInputs.cache
+C:\GIT\ClientServer\Server\obj\Debug\net6.0\Server.AssemblyInfo.cs
+C:\GIT\ClientServer\Server\obj\Debug\net6.0\Server.csproj.CoreCompileInputs.cache
